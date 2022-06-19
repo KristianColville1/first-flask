@@ -8,11 +8,7 @@ On submitting projects of any kind change the debug value,
 
 Reason: Security issue.
 
-<!-- # debug must be set to false when submitting projects,
-# its for production environments
-if __name__ == "__main__":
-    app.run(
-        host=os.environ.get("IP", "0.0.0.0"),
-        port=int(os.environ.get("PORT", "5000")),
-        debug=True <HERE>
-    ) -->
+debug must be set to false when submitting projects,
+its for production environments
+
+![code screenshot](assets/images/debug-is-false.png)
