@@ -1,25 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
-
-.site-heading {
-    text-shadow: 3px 3px 3px black;
-}
 
 .col-md-5 img {
     width: 100%;
-    margin-bottom: 25px;
-    box-shadow: 2px 2px 3px rgb(61, 61, 61);
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
-}
-
-h2 {
-    text-shadow: 1px 1px 2px rgb(83, 79, 79);
-}
-
-h3,
-.personal-design {
-    font-size: 4rem;
-    font-family: 'Tangerine', cursive;
-    text-shadow: 1px 1px 2px rgb(158, 154, 154);
-    text-align: center;
 }
