@@ -16,11 +16,10 @@ h2 {
     text-shadow: 1px 1px 2px rgb(83, 79, 79);
 }
 
-h3 {
+h3,
+.personal-design {
     font-size: 4rem;
     font-family: 'Tangerine', cursive;
-    letter-spacing: 2px;
-    color: rgb(194, 171, 42);
-    text-shadow: 1px 1px 2px rgb(61, 61, 61);
+    text-shadow: 1px 1px 2px rgb(158, 154, 154);
     text-align: center;
 }
